@@ -4,6 +4,6 @@ OLED_ENABLE = yes
 
 VIA_ENABLE = yes
 
-# custom keymap rules
+# custom
 EXTRAKEY_ENABLE = yes
 MOUSEKEY_ENABLE = yes
